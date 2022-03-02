@@ -1,4 +1,4 @@
-# did_django_google_api_tutorial
+# django_google_api
 Django project that uses Googles APIs to auto populate fields, display maps and routes for multiple waypoints
 
 1) cd to development directory
